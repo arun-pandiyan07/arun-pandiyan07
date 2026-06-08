@@ -1,121 +1,37 @@
-<h1 align="center">Hi 👋, I'm Arun Pandiyan</h1>
+👋 Hello, I'm Arun Pandiyan!
+🚀 Frontend Developer | React.js & React Native Developer | Mobile App Enthusiast
 
-<h3 align="center">
-Frontend Developer | React.js & React Native Developer
-</h3>
+Welcome to my GitHub profile! I'm passionate about building scalable web and mobile applications that create meaningful user experiences. With over 2+ years of professional experience, I enjoy transforming ideas into high-quality, user-friendly applications using modern frontend technologies.
 
-<p align="center">
-Passionate about building scalable web and mobile applications with modern technologies.
-</p>
+I specialize in developing cross-platform applications with React.js and React Native, focusing on reusable components, clean architecture, API integration, and performance optimization. I love solving real-world problems through code and continuously improving my skills by exploring new technologies and best practices.
 
----
+🔧 Tech Stack
 
-## 🚀 About Me
+💻 Frontend:
+React.js, React Native, JavaScript (ES6+), TypeScript, HTML5, CSS3
 
-- 💼 Frontend Developer with 3+ years of experience
-- 📱 Specialized in React Native and React.js development
-- 🔭 Currently working at **Skandavel Webtech Private Limited**
-- 🌱 Exploring advanced React Native architecture and performance optimization
-- 🤝 Open to collaborating on React.js and React Native projects
-- 📍 Based in Madurai, Tamil Nadu
-- 🚀 Willing to relocate
+⚙️ State Management:
+Redux, Redux Toolkit, Context API
 
----
+🔌 API Integration:
+REST APIs, Axios, Postman
 
-## 💻 Tech Stack
+📱 Mobile Development:
+React Native, Android Development, Responsive UI Development
 
-### Frontend
-- React.js
-- React Native
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
+🛠️ Tools:
+Git, GitHub, VS Code, Android Studio, Postman
 
-### State Management
-- Redux
-- Redux Toolkit
-- Context API
+🌱 Currently Learning
 
-### API Integration
-- REST APIs
-- Axios
-- Postman
+📘 Advanced React Native Architecture
 
-### Mobile Development
-- Android Development
-- Responsive UI Development
+⚡ Mobile Performance Optimization Techniques
 
-### Tools
-- Git
-- GitHub
-- Android Studio
-- VS Code
+🔄 Redux Toolkit Best Practices
 
-### Databases
-- MongoDB
-- MySQL
+📫 Contact Me
 
----
+💼 LinkedIn: www.linkedin.com/in/arun-pandiyan-r-b8835739a
 
-## 🏢 Professional Experience
-
-### Software Developer – Web & Mobile Applications
-**Skandavel Webtech Private Limited**
-(May 2024 – Present)
-
-- Developed and maintained React.js and React Native applications.
-- Built reusable UI components.
-- Integrated REST APIs.
-- Implemented Redux and Context API.
-- Improved application performance through optimization.
-- Worked on geospatial, waste management, education, and e-commerce projects.
-
----
-
-## 📱 Featured Projects
-
-### 🗺️ Geospatial Gas Network Project
-- Developed web and mobile UI components.
-- Integrated geospatial mapping APIs.
-- Optimized rendering and data handling.
-
-**Tech:** React Native, TypeScript, Redux, REST APIs
-
----
-
-### ♻️ Waste Classification App
-- Built responsive workflow screens.
-- Integrated image uploads and tracking APIs.
-- Improved usability and performance.
-
-**Tech:** React Native, Redux, REST APIs
-
----
-
-### 📚 NEETMCQ Learning Platform
-- Developed quiz and test modules.
-- Implemented score tracking.
-- Enhanced responsiveness.
-
-**Tech:** React Native, JavaScript
-
----
-
-### 🛒 Velaan Bay Marketplace
-- Developed farmer marketplace interfaces.
-- Integrated payment workflows.
-- Improved loading performance.
-
-**Tech:** React Native, REST APIs
-
-
-
-## 📫 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/arun-pandiyan-r-b8835739a
-- GitHub: https://github.com/arun-pandiyan07
-
----
-
-⭐ "Building clean, scalable, and user-friendly applications one component at a time."
+🐙 GitHub: github.com/arun-pandiyan07
