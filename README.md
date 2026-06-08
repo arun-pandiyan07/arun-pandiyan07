@@ -113,7 +113,7 @@ Passionate about building scalable web and mobile applications with modern techn
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/arunpandiyan
+- LinkedIn: www.linkedin.com/in/arun-pandiyan-r-b8835739a
 - GitHub: https://github.com/arun-pandiyan07
 
 ---
