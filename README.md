@@ -19,7 +19,7 @@ Building scalable web and mobile applications with React.js, React Native, TypeS
 
 Welcome to my GitHub profile! I'm passionate about building scalable web and mobile applications that create meaningful user experiences.
 
-With over **2+ years of professional experience**, I enjoy transforming ideas into high-quality, user-friendly applications using modern frontend technologies.
+With over **3 years of professional experience**, I enjoy transforming ideas into high-quality, user-friendly applications using modern frontend technologies.
 
 I specialize in developing cross-platform applications with **React.js** and **React Native**, focusing on reusable components, clean architecture, API integration, and performance optimization. I love solving real-world problems through code and continuously improving my skills by exploring new technologies and best practices.
 
