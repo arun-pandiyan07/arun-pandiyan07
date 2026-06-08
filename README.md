@@ -9,7 +9,7 @@ Building scalable web and mobile applications with React.js, React Native, TypeS
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/arun-pandiyan-r-b8835739a">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/arun-pandiyan-r-b8835739a/">LinkedIn</a> •
   <a href="https://github.com/arun-pandiyan07">GitHub</a>
 </p>
 
@@ -52,6 +52,6 @@ Git, GitHub, VS Code, Android Studio, Postman
 
 📫 Contact Me
 
-💼 LinkedIn: www.linkedin.com/in/arun-pandiyan-r-b8835739a
+💼 LinkedIn: https://www.linkedin.com/in/arun-pandiyan-r-b8835739a/
 
 🐙 GitHub: https://github.com/arun-pandiyan07
