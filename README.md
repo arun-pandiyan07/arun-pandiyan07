@@ -1,9 +1,29 @@
-👋 Hello, I'm Arun Pandiyan!
+<h1 align="center">👋 Hi, I'm Arun Pandiyan</h1>
+
+<h3 align="center">
 🚀 Frontend Developer | React.js & React Native Developer | Mobile App Enthusiast
+</h3>
 
-Welcome to my GitHub profile! I'm passionate about building scalable web and mobile applications that create meaningful user experiences. With over 2+ years of professional experience, I enjoy transforming ideas into high-quality, user-friendly applications using modern frontend technologies.
+<p align="center">
+Building scalable web and mobile applications with React.js, React Native, TypeScript, and modern frontend technologies.
+</p>
 
-I specialize in developing cross-platform applications with React.js and React Native, focusing on reusable components, clean architecture, API integration, and performance optimization. I love solving real-world problems through code and continuously improving my skills by exploring new technologies and best practices.
+<p align="center">
+  <a href="https://www.linkedin.com/in/arun-pandiyan-r-68835739a">LinkedIn</a> •
+  <a href="https://github.com/arun-pandiyan07">GitHub</a>
+</p>
+
+---
+
+## 🚀 About Me
+
+Welcome to my GitHub profile! I'm passionate about building scalable web and mobile applications that create meaningful user experiences.
+
+With over **2+ years of professional experience**, I enjoy transforming ideas into high-quality, user-friendly applications using modern frontend technologies.
+
+I specialize in developing cross-platform applications with **React.js** and **React Native**, focusing on reusable components, clean architecture, API integration, and performance optimization. I love solving real-world problems through code and continuously improving my skills by exploring new technologies and best practices.
+
+---
 
 🔧 Tech Stack
 
