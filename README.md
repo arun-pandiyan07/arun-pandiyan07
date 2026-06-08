@@ -107,17 +107,9 @@ Passionate about building scalable web and mobile applications with modern techn
 - Integrated payment workflows.
 - Improved loading performance.
 
-**Tech:** React.js, React Native, REST APIs
+**Tech:** React Native, REST APIs
 
----
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arun-pandiyan07&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-pandiyan07&layout=compact)
-
----
 
 ## 📫 Connect With Me
 
